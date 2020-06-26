@@ -1,8 +1,6 @@
-h1{
-    /*color:blue;*/
-    color: rgb(0,255,0);
-    color:#00ff00;
-    color:#0f0;
+body{
+  color:#333;
+  font-family:Verdana, sans-serif;
 }
 
 
